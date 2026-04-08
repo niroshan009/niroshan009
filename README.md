@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thusitha Niroshan</h1>
-<p>I am a Software Engineer who is passionate about finding optimal solutions. I have over 10 years of experience where I have worked in multiple domains such as Insurance, Telco, and Banking. I am specialised in Backend Development with Java technology. My forte is Backend + DevOps, but I am not limited to that. I have worked on frameworks like Spring Boot, Spark, and Cucumber, which makes me deployable anywhere in a team. Also, I have worked with Angular Framework as well for UI components development.</p>
+<p>I am a Software Engineer who is passionate about finding optimal solutions. I have over 10 years of experience where I have worked in multiple domains such as Insurance, Telco, and Banking. I am specialised in Backend Development with Java technology. My forte is Backend + DevOps, but I am not limited to that. I have worked on frameworks like Spring Boot, Spark, and Cucumber, which makes me deployable anywhere in a team. Also, I have worked with Angular Framework for UI components development.</p>
 
 - 🔭 I’m currently working on [Capsuleme](https://capsuleme.io)
 
