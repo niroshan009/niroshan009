@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Capsuleme](https://capsuleme.io)
 
-- 🌱 I’m currently learning **Knative**
+- 🌱 I’m currently learning **KEDA**
 
 - 📝 I regularly write articles on [https://niroshankdt.medium.com](https://niroshankdt.medium.com)
 
